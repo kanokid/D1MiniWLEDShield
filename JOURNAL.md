@@ -6,9 +6,9 @@
   ==================================================================
 -->
 
-## 11/8/2025 - Finished the pcb and ordered components  
+## 11/8/2025 - changing dev boards and adding fuse  
 
-I did the finishing touches on the parts of the PCB (like buck stepdown and data outputs). I sent off the PCB to get manufactured, and ordered the other components.
+I made the choice to change from a esp32-c3 supermini to a d1 mini esp32 because of the classic esp32 recommended by WLED. I also added a fuse to protect against failures.
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--5656bdb0ad4b0945ec846f2649c06d4b1b180a72/image.png)
   
 
