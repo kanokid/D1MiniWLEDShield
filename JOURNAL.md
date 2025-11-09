@@ -6,3 +6,9 @@
   ==================================================================
 -->
 
+## 11/8/2025 - Finished the pcb and ordered components  
+
+I did the finishing touches on the parts of the PCB (like buck stepdown and data outputs). I sent off the PCB to get manufactured, and ordered the other components.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTYzNSwicHVyIjoiYmxvYl9pZCJ9fQ==--5656bdb0ad4b0945ec846f2649c06d4b1b180a72/image.png)
+  
+
