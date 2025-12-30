@@ -1,1 +1,2 @@
 This ESP32 D1 mini shield PCB includes a level shifter for the LED data lines and a fuse for overcurrent protection. The D1 mini runs WLED, It uses a DC barrel jack for unified power in, It has built in LM2596-5.0 circuitry to power the D1 mini from LED power supply, headers for a MAX9814 module for AudioReactive WLED, and a jumper to adjust mic gain control and 2 terminal blocks for LED hookup.
+**THIS IS GLITCHY! DONT BUILD UNLESS YOU FIX THE MISTAKES IN IT THAT CAN MAKE IT NOT WORK OR BLOW UP!
